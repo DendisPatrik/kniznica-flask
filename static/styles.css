@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.author-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.author-table th, .author-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.author-table th {
+    background-color: #f4f4f4;
+    text-align: left;
+}
